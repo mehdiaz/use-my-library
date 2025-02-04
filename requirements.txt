@@ -1,1 +1,1 @@
-https://github.com/mehdiaz/my-python-library/releases/download/v8/my_python_library-1-py3-none-any.whl
+https://github.com/mehdiaz/my-python-library/releases/download/v8/my_python_library-0.1.0-py3-none-any.whl
